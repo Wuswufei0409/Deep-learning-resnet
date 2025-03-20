@@ -1,11 +1,6 @@
-# Deep-learning-resnet (Group: Deep fried AI)
+# Deep-learning-resnet
 Describtion:
 kaggle competition for designing a resnet neural network to do image classificaiton (CIFAR 10 classification).
-
-Team Members:
-Qin Huai,
-Li Shihao, 
-Yin Wufei
 
 Instructor:
 Chinmay Hegde (chinmay.h@nyu.edu)
